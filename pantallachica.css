@@ -1,0 +1,22 @@
+@media(min-width: 576px) {
+    .firsrt-container {
+        background-color: rgb(31, 150, 255);
+        text-decoration: solid
+    };
+    .firsrt-container a{
+        color: rgb(248, 249, 249);
+        background-color: rgb(87, 174, 237);
+    }
+    img {
+        
+        width: 35%;
+    }
+}
+@media(max-width: 768px){
+    body {
+        background-color: rgb(250, 255, 255);
+    }
+    img {
+        width: 50%;
+    }
+}
